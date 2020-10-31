@@ -1,0 +1,15 @@
+{
+  "name": "gamestatus",
+  "version": "1.0.0",
+  "description": "A simple api to get the status of game servers defined in a config",
+  "main": "site.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rtm516",
+  "license": "GNU",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gamedig": "^2.0.23"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mc": {
+    "type": "minecraft",
+    "host": "127.0.0.1",
+    "port": 25565
+  },
+  "dayz": {
+    "type": "dayz",
+    "host": "127.0.0.1",
+    "port": 2303
+  }
+}
