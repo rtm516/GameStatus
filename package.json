@@ -4,7 +4,7 @@
   "description": "A simple api to get the status of game servers defined in a config",
   "main": "site.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node site.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rtm516",
